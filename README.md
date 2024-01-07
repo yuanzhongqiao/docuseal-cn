@@ -1,89 +1,119 @@
-<h1 align="center" style="border-bottom: none">
-  <div>
-    <a href="https://www.docuseal.co">
-      <img  alt="DocuSeal" src="https://github.com/docusealco/docuseal/assets/5418788/c12cd051-81cd-4402-bc3a-92f2cfdc1b06" width="80" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 align="center" tabindex="-1" dir="auto"><a id="user-content---------------------------docuseal--" class="anchor" aria-hidden="true" tabindex="-1" href="#--------------------------docuseal--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+  <div dir="auto">
+    <a href="https://www.docuseal.co" rel="nofollow">
+      <img alt="文档印章" src="https://github.com/docusealco/docuseal/assets/5418788/c12cd051-81cd-4402-bc3a-92f2cfdc1b06" width="80" style="max-width: 100%;">
       <br>
-    </a>
-    DocuSeal
-  </div>
+    </a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    文档印章
+  </font></font></div>
 </h1>
-<h3 align="center">
-  Open source document filling and signing
-</h3>
-<p align="center">
-  <a href="https://hub.docker.com/r/docuseal/docuseal">
-    <img alt="Docker releases" src="https://img.shields.io/docker/v/docuseal/docuseal">
+<h3 align="center" tabindex="-1" dir="auto"><a id="user-content---open-source-document-filling-and-signing" class="anchor" aria-hidden="true" tabindex="-1" href="#--open-source-document-filling-and-signing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  开源文档填写和签名
+</font></font></h3>
+<p align="center" dir="auto">
+  <a href="https://hub.docker.com/r/docuseal/docuseal" rel="nofollow">
+    <img alt="Docker 版本" src="https://camo.githubusercontent.com/bec9a26f9c332a342d2eda97279162dc99eca77b2723e323520d1777b526f49f/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f762f646f63757365616c2f646f63757365616c" data-canonical-src="https://img.shields.io/docker/v/docuseal/docuseal" style="max-width: 100%;">
   </a>
-  <a href="https://discord.gg/qygYCDGck9">
-    <img src="https://img.shields.io/discord/1125112641170448454?logo=discord"/>
+  <a href="https://discord.gg/qygYCDGck9" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/5dd18852fbc09c0a1ecff7f650ae87ce3b60920587de220f4f9dbbd4ee93e189/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313132353131323634313137303434383435343f6c6f676f3d646973636f7264" data-canonical-src="https://img.shields.io/discord/1125112641170448454?logo=discord" style="max-width: 100%;">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=docusealco">
-    <img src="https://img.shields.io/twitter/follow/docusealco?style=social" alt="Follow @docusealco" />
+  <a href="https://twitter.com/intent/follow?screen_name=docusealco" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/4d049e02f4184b326976e6d560ddefc260680e91b58be3e8dcaf8398fd983f15/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f646f63757365616c636f3f7374796c653d736f6369616c" alt="关注@docusealco" data-canonical-src="https://img.shields.io/twitter/follow/docusealco?style=social" style="max-width: 100%;">
   </a>
 </p>
-<p>
-DocuSeal is an open source platform that provides secure and efficient digital document signing and processing. Create PDF forms to have them filled and signed online on any device with an easy-to-use, mobile-optimized web tool.
-</p>
-<h2 align="center">
-  <a href="https://demo.docuseal.co">✨ Live Demo</a>
-  <span>|</span>
-  <a href="https://docuseal.co/sign_up">☁️ Try in Cloud</a>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+DocuSeal 是一个开源平台，提供安全高效的数字文档签名和处理。</font><font style="vertical-align: inherit;">创建 PDF 表单，使用易于使用、针对移动设备优化的网络工具在任何设备上在线填写和签名。
+</font></font></p>
+<h2 align="center" tabindex="-1" dir="auto"><a id="user-content----live-demo----️-try-in-cloud" class="anchor" aria-hidden="true" tabindex="-1" href="#---live-demo----️-try-in-cloud"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+  <a href="https://demo.docuseal.co" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✨ 现场演示</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font></span>
+  <a href="https://docuseal.co/sign_up" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">☁️ 在云端尝试</font></font></a>
 </h2>
-
-[![Demo](https://github.com/docusealco/docuseal/assets/5418788/d8703ea3-361a-423f-8bfe-eff1bd9dbe14)](https://demo.docuseal.co)
-
-## Features
-- [x] PDF form fields builder (WYSIWYG)
-- [x] 11 field types available (Signature, Date, File, Checkbox etc.)
-- [x] Multiple submitters per document
-- [x] Automated emails via SMTP
-- [x] Files storage on disk or AWS S3, Google Storage, Azure Cloud
-- [x] Automatic PDF eSignature
-- [x] PDF signature verification
-- [x] Users management
-- [x] Mobile-optimized
-- [x] API and Webhooks for integrations
-- [x] Easy to deploy in minutes
-
-## Deploy
-
-|Heroku|Railway|
-|:--:|:---:|
-| [<img alt="Deploy on Heroku" src="https://www.herokucdn.com/deploy/button.svg" height="40">](https://heroku.com/deploy?template=https://github.com/docusealco/docuseal-heroku) | [<img alt="Deploy on Railway" src="https://railway.app/button.svg" height="40">](https://railway.app/template/IGoDnc?referralCode=ruU7JR)|
-|**DigitalOcean**|**Render**|
-| [<img alt="Deploy on DigitalOcean" src="https://www.deploytodo.com/do-btn-blue.svg" height="40">](https://cloud.digitalocean.com/apps/new?repo=https://github.com/docusealco/docuseal-digitalocean/tree/master&refcode=421d50f53990) | [<img alt="Deploy to Render" src="https://render.com/images/deploy-to-render-button.svg" height="40">](https://render.com/deploy?repo=https://github.com/docusealco/docuseal-render)
-|**Koyeb**|**Elestio**|
-| [<img alt="Deploy on Koyeb" src="https://www.koyeb.com/static/images/deploy/button.svg" height="40">](https://app.koyeb.com/deploy?name=docuseal&type=docker&image=docker.io/docuseal/docuseal&env[PORT]=8000&env[DATABASE_URL]=CHANGE_ME&env[SECRET_KEY_BASE]=CHANGE_ME&ports=8000;http;/) | [<img alt="Deploy on Elestio" src="https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png">](https://dash.elest.io/deploy?soft=DocuSeal&id=339) |
-
-
-#### Docker
-
-```sh
-docker run --name docuseal -p 3000:3000 -v.:/data docuseal/docuseal
-```
-
-By default DocuSeal docker container uses an SQLite database to store data and configurations. Alternatively, it is possible use PostgreSQL or MySQL databases by specifying the `DATABASE_URL` env variable.
-
-#### Docker Compose
-
-Download docker-compose.yml into your private server:
-```sh
-curl https://raw.githubusercontent.com/docusealco/docuseal/master/docker-compose.yml > docker-compose.yml
-```
-
-Run the app under a custom domain over https using docker compose (make sure your DNS points to the server to automatically issue ssl certs with Caddy):
-```sh
-HOST=your-domain-name.com docker-compose up
-```
-
-## For Businesses
-### Integrate seamless document signing into your web or mobile apps with DocuSeal!
-
-At DocuSeal we have expertise and technologies to make documents creation, filling, signing and processing seamlessly integrated with your product. We specialize in working with various industries, including **Banking, Healthcare, Transport, Real Estate, eCommerce, KYC, CRM, and other software products** that require bulk document signing. By leveraging DocuSeal, we can assist in reducing the overall cost of developing and processing electronic documents while ensuring security and compliance with local electronic document laws.
-
-[Book a Meeting](https://calendly.com/kriti-docuseal/30min)
-
-## License
-
-Distributed under the AGPLv3 License. See [LICENSE](https://github.com/docusealco/docuseal/blob/master/LICENSE) for more information.
-Unless otherwise noted, all files © 2023 DocuSeal LLC.
+<p dir="auto"><a href="https://demo.docuseal.co" rel="nofollow"><img src="https://private-user-images.githubusercontent.com/5418788/251969508-d8703ea3-361a-423f-8bfe-eff1bd9dbe14.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ2MzgwNTksIm5iZiI6MTcwNDYzNzc1OSwicGF0aCI6Ii81NDE4Nzg4LzI1MTk2OTUwOC1kODcwM2VhMy0zNjFhLTQyM2YtOGJmZS1lZmYxYmQ5ZGJlMTQuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDEwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAxMDdUMTQyOTE5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MWVhYjdlMjU5ZTgxY2E1NDAxMjEwMzI0OTQ4M2Y1YTk5NzgzODFiOTU5ZDk0MjdiZmVkMjNhZDhiNDliM2MzMSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.aC4uIttN5a2VK83Npz1tkjQZQKXtsFz3IAn4kQi7I48" alt="演示" secured-asset-link="" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-features" class="anchor" aria-hidden="true" tabindex="-1" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PDF 表单字段生成器 (WYSIWYG)</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">11 种可用字段类型（签名、日期、文件、复选框等）</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">每个文档有多个提交者</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 SMTP 自动发送电子邮件</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件存储在磁盘或 AWS S3、Google Storage、Azure Cloud 上</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动 PDF 电子签名</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PDF签名验证</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户管理</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动优化</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于集成的 API 和 Webhooks</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">几分钟内即可轻松部署</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-deploy" class="anchor" aria-hidden="true" tabindex="-1" href="#deploy"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">部署</font></font></h2>
+<table>
+<thead>
+<tr>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赫罗库</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">铁路</font></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://heroku.com/deploy?template=https://github.com/docusealco/docuseal-heroku" rel="nofollow"><img alt="部署在 Heroku 上" src="https://camo.githubusercontent.com/df5706ea91f4c49deb42ca31a753d025e2078d24e2490cf88ffc7ed84a38e48e/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" height="40" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" style="max-width: 100%;"></a></td>
+<td align="center"><a href="https://railway.app/template/IGoDnc?referralCode=ruU7JR" rel="nofollow"><img alt="部署在铁路上" src="https://camo.githubusercontent.com/d07713342bc583232f8752c33a6a24e5f367d73725183a63f2f5fdd7c00606a3/68747470733a2f2f7261696c7761792e6170702f627574746f6e2e737667" height="40" data-canonical-src="https://railway.app/button.svg" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td align="center"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字海洋</font></font></strong></td>
+<td align="center"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使成为</font></font></strong></td>
+</tr>
+<tr>
+<td align="center"><a href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/docusealco/docuseal-digitalocean/tree/master&amp;refcode=421d50f53990" rel="nofollow"><img alt="部署在 DigitalOcean 上" src="https://camo.githubusercontent.com/159b79f1d2eb07b3de258a6abef0fdc09c4bbed5cbfb6f51642c27d5f93a3b6d/68747470733a2f2f7777772e6465706c6f79746f646f2e636f6d2f646f2d62746e2d626c75652e737667" height="40" data-canonical-src="https://www.deploytodo.com/do-btn-blue.svg" style="max-width: 100%;"></a></td>
+<td align="center"><a href="https://render.com/deploy?repo=https://github.com/docusealco/docuseal-render" rel="nofollow"><img alt="部署到渲染" src="https://camo.githubusercontent.com/8bd9b408ceaa8efda215a42c9519114dec33c0f129e4d0d0b0a6eb670398be63/68747470733a2f2f72656e6465722e636f6d2f696d616765732f6465706c6f792d746f2d72656e6465722d627574746f6e2e737667" height="40" data-canonical-src="https://render.com/images/deploy-to-render-button.svg" style="max-width: 100%;"></a></td>
+</tr>
+<tr>
+<td align="center"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">科耶布</font></font></strong></td>
+<td align="center"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">埃莱斯蒂奥</font></font></strong></td>
+</tr>
+<tr>
+<td align="center"><a href="https://app.koyeb.com/deploy?name=docuseal&amp;type=docker&amp;image=docker.io/docuseal/docuseal&amp;env%5BPORT%5D=8000&amp;env%5BDATABASE_URL%5D=CHANGE_ME&amp;env%5BSECRET_KEY_BASE%5D=CHANGE_ME&amp;ports=8000;http;/" rel="nofollow"><img alt="在 Koyeb 上部署" src="https://camo.githubusercontent.com/8f91e42463870497e0309c48e99d9e455d62f8d454c809e78b154384dd24329d/68747470733a2f2f7777772e6b6f7965622e636f6d2f7374617469632f696d616765732f6465706c6f792f627574746f6e2e737667" height="40" data-canonical-src="https://www.koyeb.com/static/images/deploy/button.svg" style="max-width: 100%;"></a></td>
+<td align="center"><a href="https://dash.elest.io/deploy?soft=DocuSeal&amp;id=339" rel="nofollow"><img alt="部署在 Elestio 上" src="https://camo.githubusercontent.com/20bc2e60414176e6de7a9244ba478f2b32997f0e3f21526022f7f32a35126914/68747470733a2f2f7075622d64613336313537633835343634383636393831336633663736633532366332622e72322e6465762f6465706c6f792d6f6e2d656c657374696f2d626c61636b2e706e67" data-canonical-src="https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+<h4 tabindex="-1" dir="auto"><a id="user-content-docker" class="anchor" aria-hidden="true" tabindex="-1" href="#docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">码头工人</font></font></h4>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker run --name docuseal -p 3000:3000 -v.:/data docuseal/docuseal</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker run --name docuseal -p 3000:3000 -v.:/data docuseal/docuseal" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">默认情况下，DocuSeal docker 容器使用 SQLite 数据库来存储数据和配置。</font><font style="vertical-align: inherit;">或者，可以通过指定</font></font><code>DATABASE_URL</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">env 变量来使用 PostgreSQL 或 MySQL 数据库。</font></font></p>
+<h4 tabindex="-1" dir="auto"><a id="user-content-docker-compose" class="anchor" aria-hidden="true" tabindex="-1" href="#docker-compose"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 组合</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将 docker-compose.yml 下载到您的私有服务器中：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>curl https://raw.githubusercontent.com/docusealco/docuseal/master/docker-compose.yml <span class="pl-k">&gt;</span> docker-compose.yml</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="curl https://raw.githubusercontent.com/docusealco/docuseal/master/docker-compose.yml > docker-compose.yml" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 docker compose 通过 https 在自定义域下运行应用程序（确保您的 DNS 指向服务器以自动向 Caddy 颁发 ssl 证书）：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>HOST=your-domain-name.com docker-compose up</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="HOST=your-domain-name.com docker-compose up" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content-for-businesses" class="anchor" aria-hidden="true" tabindex="-1" href="#for-businesses"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于企业</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-integrate-seamless-document-signing-into-your-web-or-mobile-apps-with-docuseal" class="anchor" aria-hidden="true" tabindex="-1" href="#integrate-seamless-document-signing-into-your-web-or-mobile-apps-with-docuseal"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 DocuSeal 将无缝文档签名集成到您的 Web 或移动应用程序中！</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 DocuSeal，我们拥有专业知识和技术，可以将文档创建、填写、签署和处理与您的产品无缝集成。</font><font style="vertical-align: inherit;">我们专注于与各个行业合作，包括</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">银行、医疗保健、运输、房地产、电子商务、KYC、CRM 以及其他</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">需要批量文档签名的软件产品。</font><font style="vertical-align: inherit;">通过利用 DocuSeal，我们可以帮助降低开发和处理电子文档的总体成本，同时确保安全性并遵守当地电子文档法律。</font></font></p>
+<p dir="auto"><a href="https://calendly.com/kriti-docuseal/30min" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">预订会议</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据 AGPLv3 许可证分发。</font><font style="vertical-align: inherit;">请参阅</font></font><a href="https://github.com/docusealco/docuseal/blob/master/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多信息。</font><font style="vertical-align: inherit;">除非另有说明，所有文件 © 2023 DocuSeal LLC。</font></font></p>
+</article></div>
